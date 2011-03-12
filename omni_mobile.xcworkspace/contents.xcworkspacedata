@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:json_mobile/json_mobile.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:omni_mobile/omni_mobile.xcodeproj">
+   </FileRef>
+</Workspace>
