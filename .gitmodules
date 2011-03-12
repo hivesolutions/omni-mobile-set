@@ -1,7 +1,9 @@
 [submodule "json_mobile"]
 	path = json_mobile
 	url = git@github.com:hivesolutions/json_mobile.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
 
 [submodule "omni_mobile"]
 	path = omni_mobile
 	url = git@github.com:hivesolutions/omni_mobile.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
