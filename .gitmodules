@@ -1,7 +1,7 @@
 [submodule "json_mobile"]
 	path = json_mobile
-	url = ../json_mobile
+	url = git@github.com:hivesolutions/json_mobile.git
 
 [submodule "omni_mobile"]
 	path = omni_mobile
-	url = ../omni_mobile
+	url = git@github.com:hivesolutions/omni_mobile.git
