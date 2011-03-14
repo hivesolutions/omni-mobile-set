@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:commons_mobile/commons_mobile.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:json_mobile/json_mobile.xcodeproj">
    </FileRef>
    <FileRef
