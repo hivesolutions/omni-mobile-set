@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:commons_ui_mobile/commons_ui_mobile.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:commons_mobile/commons_mobile.xcodeproj">
    </FileRef>
    <FileRef
