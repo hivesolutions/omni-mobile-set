@@ -1,7 +1,3 @@
-[submodule "commons_ui_mobile"]
-	path = commons_ui_mobile
-	url = git@github.com:hivesolutions/commons_ui_mobile.git
-
 [submodule "commons_mobile"]
 	path = commons_mobile
 	url = git@github.com:hivesolutions/commons_mobile.git
@@ -13,3 +9,6 @@
 [submodule "omni_mobile"]
 	path = omni_mobile
 	url = git@github.com:hivesolutions/omni_mobile.git
+[submodule "commons_ui_mobile"]
+	path = commons_ui_mobile
+	url = git@github.com:hivesolutions/commons_ui_mobile.git
