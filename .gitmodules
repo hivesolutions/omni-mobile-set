@@ -1,3 +1,7 @@
+[submodule "commons_mobile"]
+        path = commons_mobile
+        url = git@github.com:hivesolutions/commons_mobile.git
+
 [submodule "json_mobile"]
 	path = json_mobile
 	url = git@github.com:hivesolutions/json_mobile.git
