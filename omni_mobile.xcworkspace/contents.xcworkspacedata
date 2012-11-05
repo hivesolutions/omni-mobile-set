@@ -13,4 +13,7 @@
    <FileRef
       location = "group:omni_mobile/omni_mobile.xcodeproj">
    </FileRef>
+   <FileRef
+      location = "group:omni_dashboard/omni_dashboard.xcodeproj">
+   </FileRef>
 </Workspace>
