@@ -13,3 +13,6 @@
 [submodule "commons_ui_mobile"]
 	path = commons_ui_mobile
 	url = git@github.com:hivesolutions/commons_ui_mobile.git
+[submodule "omni_dashboard"]
+	path = omni_dashboard
+	url = git@github.com:hivesolutions/omni_dashboard.git
