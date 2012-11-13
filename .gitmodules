@@ -10,6 +10,3 @@
 [submodule "omni_mobile"]
 	path = omni_mobile
 	url = git@github.com:hivesolutions/omni_mobile.git
-[submodule "omni_dashboard"]
-	path = omni_dashboard
-	url = git@github.com:hivesolutions/omni_dashboard.git
